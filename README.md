@@ -1,4 +1,4 @@
-# shurti-madhur-music(PHP_LARAVEL + Spring Boot)
+# shurti-madhur-music(PHP_LARAVEL)
 
 PHP Laravel
 =====================
